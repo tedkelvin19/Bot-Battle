@@ -3,10 +3,13 @@ This is a simple react application that displays a list of bots in the local db 
 
 # Description 
 This application fetches data from a local db.json and manipulates the DOM to display the collection of bots available. This application required the following inorder to accomplise the code Challenge
+
 1.Display a list of available bots 
 2.select a list of your bot Army
 3.Delete a bot when clicked 
+
 For Advanced deliverables i was required to ; 
+
 1.when a bot is clicked it displays the bot specs
 2.add a enlist and Go back button
 3.sort the bots using health,armor,damage
